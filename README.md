@@ -6,4 +6,4 @@ Instead of correctly inlining, the entire `this.categories$ = [...]` assignment 
 
 Recording of the behavior:
 
-![](Recording.webm)
+![](recording.mp4)
