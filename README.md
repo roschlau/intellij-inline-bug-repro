@@ -4,6 +4,4 @@ To trigger the bug, open [reproduction.ts](./src/reproduction.ts) in IntelliJ ID
 
 Instead of correctly inlining, the entire `this.categories$ = [...]` assignment is deleted as a result.
 
-Recording of the behavior:
-
-![](recording.mp4)
+Recording of the behavior in [recording.mp4](recording.mp4).
